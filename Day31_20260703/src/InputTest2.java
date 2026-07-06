@@ -16,6 +16,7 @@ public class InputTest2 {
 
 		// 3. 처리
 		// 마이너스 나이가 들어오면? 
+		// 혹시 숫자를 입력하라고 했더니 문자 입력?
 		if (나이 >= 20) {
 			System.out.println("성인");
 		} else {
