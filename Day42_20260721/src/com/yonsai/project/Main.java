@@ -25,7 +25,7 @@ public class Main {
 		DogService map = new DogService();
 		
 		// MapTest안에 있는 함수들을 실행할 수있다!
-		//maptest안에 mapEx()함수 실행해!
+		// maptest안에 mapEx()함수 실행해!
 		
 		map.강아지입양테스트();
 
